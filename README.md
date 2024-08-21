@@ -42,6 +42,6 @@ We began by inspecting the four CSV files and sketched an ERD using QuickDBD to 
 
 Next, we created a new Postgres database called crowdfunding_db and, following the schema, created the tables in the correct order to manage foreign keys. To ensure the tables were created correctly, we ran SELECT statements for each table. Finally, we imported each CSV file into its corresponding SQL table and verified the accuracy of the data with SELECT statements for each table.
 
-
+We successfully built and validated an ETL pipeline, transforming data into organized CSV files, developing a PostgreSQL database, and ensuring data accuracy through thorough verification.
 
 
