@@ -45,4 +45,8 @@ Next, we created a new Postgres database called crowdfunding_db and, following t
 
 We successfully built and validated an ETL pipeline, transforming data into organized CSV files, developing a PostgreSQL database, and ensuring data accuracy through thorough verification.
 
+###Notes
+
+This project was developed and completed with the help of class activities, cross referencing, peer collaboration, and ChatGPT.
+
 
