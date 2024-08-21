@@ -35,7 +35,7 @@ We imported the contacts.xlsx file into a DataFrame, then iterated through the D
 
 ### Create the Crowdfunding Database:
 
-We began by inspecting the four CSV files and sketched an ERD using QuickDBD to visualize the relationships between the tables. Using the ERD, we created a table schema for each CSV file, specifying data types, primary keys, foreign keys, and other constraints. We then saved this schema as a Postgres file named crowdfunding_db_schema.sql and committed it to our GitHub repository. The follwoing images shows our ERD and our exported crowdfunding_db_schema:
+We began by inspecting the four CSV files and sketched an ERD using QuickDBD to visualize the relationships between the tables. Using the ERD, we created a table schema for each CSV file, specifying data types, primary keys, foreign keys, and other constraints. We then saved this schema as a Postgres file named crowdfunding_db_schema.sql and committed it to our GitHub repository. The following images shows our ERD and our exported crowdfunding_db_schema:
 
 ![ERD](https://github.com/mariemsdiaz/Crowdfunding_ETL/blob/main/Resources/ERD_Table.png)
 
